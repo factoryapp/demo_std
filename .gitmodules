@@ -27,3 +27,8 @@
 	path = OCA/web
 	url = git@github.com:OCA/web.git
 	branch = 14.0
+
+[submodule "ctmil/payment_mercadopago"]
+	path = ctmil/payment_mercadopago
+	url = git@github.com:ctmil/payment_mercadopago.git
+	branch = 14.0
